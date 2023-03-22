@@ -70,7 +70,7 @@ Para deixar claro o caráter não remunerado do exercício da atividade administ
 
 Não tivemos notícia ainda de alguma notificação ou ato contrário da Receita Federal em face de sócio sem remuneração ou pro-labore. Exceto quando existe o pro-labore, há informação repassada para receita e não há recolhimento do respectivo tributo, o que é uma situação totalmente diferente.
 
-No manual da <a href="https://www.gov.br/receitafederal/pt-br">GFIP de Janeiro de 2020</a> consta no item “4” – MOVIMENTO DE TRABALHADOR, subitem “9” a possibilidade de movimentação do contribuinte individual sem pró-labore, dando um indicativo que a Receita não se opõe a este entendimento, confira o texto do item: <i> O trabalhador semremuneração devida na competência, como, por exemplo, empregado ausente no mês inteiro ou contribuinte individual sem pró-labore/remuneração,não deve ser informado. </i>
+No manual da <a href="https://www.gov.br/receitafederal/pt-br">GFIP de Janeiro de 2020</a> consta no item “4” – MOVIMENTO DE TRABALHADOR, subitem “9” a possibilidade de movimentação do contribuinte individual sem pró-labore, dando um indicativo que a Receita não se opõe a este entendimento, confira o texto do item: *O trabalhador semremuneração devida na competência, como, por exemplo, empregado ausente no mês inteiro ou contribuinte individual sem pró-labore/remuneração,não deve ser informado.*
 
 ### Recomendação Final
 

@@ -4,15 +4,15 @@ title:  "Você sabe o que é Honorário de Sucumbência?"
 ---
 Assim como qualquer outro profissional liberal que presta serviço, o Advogado é remunerado por meio de honorários pagos por seus clientes e as partes do processo judicial. Existem três possibilidades de cobrar os honorários dos serviços prestados pelos advogados, conforme o art. <a href="https://www.jusbrasil.com.br/topicos/11708237/artigo-22-da-lei-n-8906-de-04-de-julho-de-1994">22</a> da Lei <a href="https://www.jusbrasil.com.br/topicos/11708237/artigo-22-da-lei-n-8906-de-04-de-julho-de-1994">8.906</a>/94
 
-<i> Art. 22. A prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e aos de sucumbência. </i>
+*Art. 22. A prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e aos de sucumbência.*
 
-<b>– Honorários Contratuais:</b> o advogado é procurado por uma demanda jurídica, onde neste ato é acordado com a parte o valor pelo qual ele será remunerado nesse serviço. Neste tipo de honorário decorre de um contrato firmado entre o advogado e o cliente, ele é chamado de “Contratual”. Independente de qual seja o resultado da proposta judicial, esse valor deve ser pago conforme o combinado entre as partes.
+**– Honorários Contratuais:** o advogado é procurado por uma demanda jurídica, onde neste ato é acordado com a parte o valor pelo qual ele será remunerado nesse serviço. Neste tipo de honorário decorre de um contrato firmado entre o advogado e o cliente, ele é chamado de “Contratual”. Independente de qual seja o resultado da proposta judicial, esse valor deve ser pago conforme o combinado entre as partes.
 
-<b>– Honorário Arbitrado:</b> São aqueles devidos pelo cliente ou advogado quando não haja estipulação ou acordo quanto à retribuição a se pagar pela prestação do determinado serviço. Ele é devido quando por algum motivo, não foi feito um contrato de honorários entre cliente e advogado ou quando houve desentendimento entre eles com relação ao valor a ser pago, independente de ele ter sido concluído com sucesso ou não. Assim, em caso de desacordo, é o juiz quem decidirá quanto o cliente vai pagar ao advogado. Esse tipo de honorário está previsto no artigo 22 do Estatuto da Advocacia (Lei n.8906/94).
+**– Honorário Arbitrado:** São aqueles devidos pelo cliente ou advogado quando não haja estipulação ou acordo quanto à retribuição a se pagar pela prestação do determinado serviço. Ele é devido quando por algum motivo, não foi feito um contrato de honorários entre cliente e advogado ou quando houve desentendimento entre eles com relação ao valor a ser pago, independente de ele ter sido concluído com sucesso ou não. Assim, em caso de desacordo, é o juiz quem decidirá quanto o cliente vai pagar ao advogado. Esse tipo de honorário está previsto no artigo 22 do Estatuto da Advocacia (Lei n.8906/94).
 
-<b>– Honorário de Sucumbência:</b> Muitas dúvidas ainda são encontradas quando o assunto é Honorário de Sucumbência, que nada mais é, que a perda em um processo judicial, a parte que perde no processo é chamada de SUCUMBENTE. Já o ônus da sucumbência é o encargo derivado de perder uma ação, seja em parte ou em todo o processo. São os valores fixados para o advogado por parte vencedora do processo por imposição da Lei (valores fixados pelo juiz da causa) estão previstos no Código de Processo Civil (artigo 85 e seus parágrafos) e no Estatuto da OAB.
+**– Honorário de Sucumbência:** Muitas dúvidas ainda são encontradas quando o assunto é Honorário de Sucumbência, que nada mais é, que a perda em um processo judicial, a parte que perde no processo é chamada de SUCUMBENTE. Já o ônus da sucumbência é o encargo derivado de perder uma ação, seja em parte ou em todo o processo. São os valores fixados para o advogado por parte vencedora do processo por imposição da Lei (valores fixados pelo juiz da causa) estão previstos no Código de Processo Civil (artigo 85 e seus parágrafos) e no Estatuto da OAB.
 
-Como o assunto que abrange a temática dos <b>Honorários Sucumbenciais</b> ainda são muitas, iremos abordar neste artigo mais sobre este tema.
+Como o assunto que abrange a temática dos **Honorários Sucumbenciais** ainda são muitas, iremos abordar neste artigo mais sobre este tema.
 
 Já sabemos o que é, e quem deve pagar os honorários de sucumbência ao advogado, mas qual é o valor a ser pago? Estes são fixados entre um mínimo de 10% e um máximo de 20% do valor da condenação do proveito econômico (nos casos em que não há condenação em valores) ou do valor atualizado da causa.
 
@@ -49,6 +49,6 @@ neste caso, é consideravelmente menor do que aquela aplicável ao profissional 
 
 Para evitar transtornos, recomenda-se as seguintes precauções:
 
-<b>– PROCURAÇÃO:</b> deve constar no campo “OUTORGADO” o nome e a qualificação da sociedade de advogados juntamente com os nomes e qualificação dos advogados responsáveis pela causa.
+**– PROCURAÇÃO:** deve constar no campo “OUTORGADO” o nome e a qualificação da sociedade de advogados juntamente com os nomes e qualificação dos advogados responsáveis pela causa.
 
-<b>– CONTRATO DE PRESTAÇÃO DE SERVIÇOS: </b> deve ser feito em nome da sociedade. Deve-se juntar o contrato aos autos do processo antes de requerer o levantamento dos honorários de sucumbência. Ao requerer o levantamento de tais verbas, solicitar que seja feito em nome da sociedade.
+**– CONTRATO DE PRESTAÇÃO DE SERVIÇOS:** deve ser feito em nome da sociedade. Deve-se juntar o contrato aos autos do processo antes de requerer o levantamento dos honorários de sucumbência. Ao requerer o levantamento de tais verbas, solicitar que seja feito em nome da sociedade.

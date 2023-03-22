@@ -7,8 +7,8 @@ title:  "INSS para os Autônomos e os Profissionais Liberais"
 
 Pra iniciarmos, vamos esclarecer quem são os contribuintes individuais. Sendo a Pessoa Física que trabalha por conta própria (profissional liberal e autônomo) que podem contribuir para a Previdência Social.
 
-<b>Autônomos: </b> Vendedor, pintor, pedreiro, técnico de televisão, mecânico, costureira, diarista, etc.
-<b>Profissional Liberal: </b> Advogados, médicos, farmacêuticos, engenheiros, dentistas, etc.
+**Autônomos:** Vendedor, pintor, pedreiro, técnico de televisão, mecânico, costureira, diarista, etc.
+**Profissional Liberal:** Advogados, médicos, farmacêuticos, engenheiros, dentistas, etc.
 
 O valor de INSS é devido somente em rendas de trabalho. Recebimento de rendimentos que não sejam de trabalho, não haverá a obrigatoriedade do recolhimento do INSS, exemplo, rendimento de aluguel.
 
@@ -16,24 +16,24 @@ O valor de INSS é devido somente em rendas de trabalho. Recebimento de rendimen
 
 Esses trabalhadores vão garantir, durante toda a sua vida de trabalho, acesso aos benefícios (auxílio-doença, invalidez, salário-maternidade, auxílio reclusão etc.) e, aposentadoria por idade ou por tempo de serviço.
 
-<b>Como devo calcular o valor da contribuição?</b>
+**Como devo calcular o valor da contribuição?**
 
 De acordo com o Art. 21 e parag. 2º inciso I da Lei 8.212/1991, o trabalhador autônomo/profissional liberal podem contribuir de duas formas:
 
 * 11% sobre o salário-mínimo vigente.
 * 20% sobre os rendimentos recebidos (observando o limite do teto de contribuição).
 
-<b> Exemplo 1: </b> pessoa física que exerce atividade de odontologia recebeu no mês de Janeiro/2018 o valor de R$ 5.000,00 contribuindo com 11% do salário mínimo vigente (atualmente no valor de R$ 954,00):
+**Exemplo 1:** pessoa física que exerce atividade de odontologia recebeu no mês de Janeiro/2018 o valor de R$ 5.000,00 contribuindo com 11% do salário mínimo vigente (atualmente no valor de R$ 954,00):
 954,00 X 11% = 104,94 (valor fixo independente do rendimento). Código de recolhimento da GPS 1163.
 
-<b>Exemplo 2: </b> pessoa física que exerce atividade de odontologia recebeu no mês de Janeiro/2018 o valor de R$ 5.000,00 contribuindo com 20% sobre o valor do <b> rendimento:</b>
+**Exemplo 2:** pessoa física que exerce atividade de odontologia recebeu no mês de Janeiro/2018 o valor de R$ 5.000,00 contribuindo com 20% sobre o valor do **rendimento:**
 5.000 X 20% = 1.000,00 (valor será variável conforme os rendimentos de cada mês). Código de recolhimento da GPS 1007.
 Quem optar pagar conforme o Exemplo 1, só pode se aposentar por idade. Já quem optar por recolher 20% da renda conforme demonstrado no Exemplo 2, se enquadra na aposentadoria por tempo de contribuição.
 
-<b>Importante: </b> Ainda que os rendimentos de trabalho não assalariado no mês seja em valor acima de R$ 5.645,80 (teto de contribuição do INSS), o calculo do INSS não deverá ser calculado sobre o rendimento total, mas sim pelo limite permitido.
+**Importante:** Ainda que os rendimentos de trabalho não assalariado no mês seja em valor acima de R$ 5.645,80 (teto de contribuição do INSS), o calculo do INSS não deverá ser calculado sobre o rendimento total, mas sim pelo limite permitido.
 
-<b> Exemplo 3: </b>pessoa física que exerce atividade de odontologia recebeu no mês de Janeiro/2018 o valor de R$ 10.000,00:
-<b>Rendimento: </b> 10.000,00 Base de cálculo: 5.645,80 (teto do INSS) Valor do INSS 20%: 1.129,16.
+**Exemplo 3:**pessoa física que exerce atividade de odontologia recebeu no mês de Janeiro/2018 o valor de R$ 10.000,00:
+**Rendimento:** 10.000,00 Base de cálculo: 5.645,80 (teto do INSS) Valor do INSS 20%: 1.129,16.
 
 ## Data de pagamento e forma de recolhimento
 
@@ -44,8 +44,8 @@ A contribuição mensal vence todo dia 15, conforme disposições no inciso II d
 Nas prestações de serviços a outras pessoas físicas não haverá retenção na fonte do INSS. O próprio trabalhador autônomo/profissional liberal deverá calcular e recolher o INSS através da GPS conforme demonstrado nos exemplos do tópico 3.
 Nas prestações de serviços a pessoas jurídicas, haverá retenção na fonte de 11% do INSS de acordo com o Art. 4º da Lei 10.666/2003.
 
-<b> Exemplo: </b> Prestação de serviço de atendimento médico aos funcionários da empresa ABC Ltda., no valor de R$ 3.000,00.
-<b>Rendimento: </b> 3.000,00 INSS Retido, 11%: 330,00 (valor descontado pela empresa) Valor a <b>Receber: </b> 2.670,00
+**Exemplo:** Prestação de serviço de atendimento médico aos funcionários da empresa ABC Ltda., no valor de R$ 3.000,00.
+**Rendimento:** 3.000,00 INSS Retido, 11%: 330,00 (valor descontado pela empresa) Valor a **Receber:** 2.670,00
 
 ## Posso NÃO contribuir com Previdência Social?
 
