@@ -10,3 +10,9 @@ _site
 # Bundler
 .bundle/
 vendor/
+
+#gemfile
+Gemfile.lock
+gemfile.lock
+Gemfile
+gemfile
