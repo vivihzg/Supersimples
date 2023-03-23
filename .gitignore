@@ -12,5 +12,5 @@ _site
 vendor/
 
 #gemfile
- Gemfile.lock
- gemfile.lock
+#  Gemfile.lock
+#  gemfile.lock
